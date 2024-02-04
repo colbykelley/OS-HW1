@@ -15,5 +15,5 @@ int main()
         cout << "Command execution failed or returned non-zero: " << returnCode << endl;    // if not, cout execution failed
     }
 
-    return 0;=
+    return 0;
 }
